@@ -62,7 +62,7 @@ Se vocês chegou até aqui, parabéns! Agora, vamos melhorar nosso projeto? Abai
   - Exibir as informações obtidas.
  
 ## 5. Sobre a Entrega
-- Você terá 3 dias para finalizar o teste.
+- Você terá 2 dias para finalizar o teste.
 - Ao final, coloque seu código em um repositório público seu após finalizar o teste. Não importa onde (github, gitlab etc), desde que esteja público, e envie o link do seu repositório no corpo do email de resposta ao nosso contato.
 
 ## 6. Próximas Etapas
