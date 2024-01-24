@@ -69,7 +69,7 @@ Se você chegou até aqui, parabéns! Estamos quase terminando. Agora precisamos
 - Ao final, coloque seu código em um repositório público seu após finalizar o teste. Não importa onde (github, gitlab etc), desde que esteja público, e envie o link do seu repositório no corpo do email de resposta ao nosso contato.
 
 ## 6. Próximas Etapas
-- Seu código será analisado por nossa equipe e, em caso positivo, entraremos em contato para a última etapa do nosso processo técnico: um hands-on e um quick questions com um de nossos desenvolvedores.
+- Seu código será analisado por nossa equipe e, em caso positivo, entraremos em contato para a última etapa da nossa análise técnica: um **hands-on** e um **quick questions** com um de nossos desenvolvedores.
 - Caso avance, você terá uma conversa com nossa gerente de pessoas e com nosso CTO e co-founder.
 - Caso avance, você terá uma conversa com nosso time de produto e desenvolvimento.
 - Caso avance, você terá uma conversa com nosso CEO e co-founder.
