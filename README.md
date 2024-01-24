@@ -12,7 +12,7 @@ E aí, topa o desafio?
 - O projeto está divido em dois módulos: **Api** e **App**. A Api foi construída utilizando **NodeJs** e no App, utilizamos **Angular**. Ambas tecnologias utilizadas na Predialize.
 - Não será necessário desenvolver testes automatizados, mas se você quiser adicionar, fique à vontade.
 - Na raíz da Api, está mantido o arquivo `clients.mock.js`. Este arquivo será a base para realizar consultas e retornar os resultados. Será o nosso banco de dados para esta etapa!
-- O desafio será dividido em **3 partes**: na primeira (4.1), você deve descobrir e resolver os bugs do app para seguir para a segunda etapa (4.2), onde você terá que implementar novas features para nossa página de clientes, que está em branco. A terceira etapa será realizar um pair programming com um membro do nosso time. Mas isto só acontecerá após avaliarmos sua entrega. 
+- O desafio será dividido em **3 partes**: na primeira (4.1), você deve descobrir e resolver os bugs do app para seguir para a segunda etapa (4.2), onde você terá que implementar novas features para nossa página de clientes, que está em branco. A terceira etapa (4.3) será apenas garantir que a api rode em qualquer sistema que utilize Docker. 
 
 ## 3. Premissas e Restrições
 - Este repositório deve ser **baixado (download) e não clonado**, sob efeito de desclassificação imediata.
@@ -58,13 +58,18 @@ Se vocês chegou até aqui, parabéns! Agora, vamos melhorar nosso projeto? Abai
 - **Na página de Detalhes do Cliente, o usuário deverá poder ver todos os empreendimentos referentes a ele:**
   - Requisitar informações da api;
   - Retornar e exibir somente: _\_id, imagem, nome e total de Imóveis/Unidades_;
+
+### 4.3. Docker
+Se você chegou até aqui, parabéns! Estamos quase terminando. Agora precisamos apenas garantir que sua api rodará em qualquer lugar usando Docker, mas existem algumas premissas:
+- Você **deve usar** Docker Compose.
+- Seu docker-compose.yml deve sincronizar/mapear as alterações do host com o volume do container.
  
 ## 5. Sobre a Entrega
 - Você terá 2 dias para finalizar o teste.
 - Ao final, coloque seu código em um repositório público seu após finalizar o teste. Não importa onde (github, gitlab etc), desde que esteja público, e envie o link do seu repositório no corpo do email de resposta ao nosso contato.
 
 ## 6. Próximas Etapas
-- Seu código será analisado por nossa equipe e, em caso positivo, entraremos em contato para a 3ª parte do teste, pair programming com um de nossos desenvolvedores.
+- Seu código será analisado por nossa equipe e, em caso positivo, entraremos em contato para a última etapa do nosso processo técnico: um hands-on e um quick questions com um de nossos desenvolvedores.
 - Caso avance, você terá uma conversa com nossa gerente de pessoas e com nosso CTO e co-founder.
 - Caso avance, você terá uma conversa com nosso time de produto e desenvolvimento.
 - Caso avance, você terá uma conversa com nosso CEO e co-founder.
